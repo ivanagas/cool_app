@@ -1,0 +1,13 @@
+{
+  "name": "Cool app",
+  "config": [
+    {
+      "key": "message",
+      "name": "Message",
+      "type": "string",
+      "default": "Howdy from the console!",
+      "required": true,
+      "site": true
+    }
+  ]
+}
